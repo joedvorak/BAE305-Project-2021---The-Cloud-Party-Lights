@@ -4,6 +4,7 @@ The Cloud is a fun decorative light source that flows through a rainbow of color
 ## Design
 For our project, we used a RaspberryPi 3, Arduino Breadboard, an LED light strip, 3 transistor and 3 resistors. We also used a microphone plugged into the RaspberryPi to pull in the audio. The image show how we set up our circuit, connecting the Arduino Breadboard to the RaspberryPi and the LED lightstrip. For future projects utilizing this setup and code, changes could be made using other functions to make the lights flash rather than having the lights flow through the rainbow.
 ![Wiring Diagram](https://github.com/joedvorak/BAE305-Project-2021---The-Cloud-Party-Lights/blob/main/116598108-74344000-a8f4-11eb-9a57-770367ecadfc.png)
+
 For the physical design component, we used a large water jug and wrapped our LED strip around it. We added "fluff" on top of the LED strip to create the cloud effect.
 ## Code
 See the repository
